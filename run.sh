@@ -26,7 +26,7 @@ if [ $? -ne 0 ]; then
 fi
 
 echo ""
-echo "Build successful! Starting the service on port 9999..."
+echo "Build successful! Starting the service on port 8080..."
 echo ""
 
 # Run the application with properties file
