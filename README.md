@@ -19,6 +19,12 @@
 - [Troubleshooting](#troubleshooting)
 - [Future Enhancements](#future-enhancements)
 
+## Copilot
+ I **"Used GitHub Copilot for :
+ - Some code  generation and writing unit tests"**,
+ - "Used ChatGPT for writing documentation and code comments"**.
+ - Generating some comment useful for README formatting style.**
+
 ## Overview
 
 The **Willow Wealth Accreditation Service** is a RESTful HTTP service that manages user accreditation status for investment compliance. 
